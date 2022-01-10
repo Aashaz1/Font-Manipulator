@@ -1,0 +1,40 @@
+.my_background{
+    background-image: url('image.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 20px;
+    color: black;
+}
+
+.note{
+   color: red;
+   font-size: 18px;
+}
+
+.footer_div{
+   position: fixed;
+   width: 100%;
+   line-height: 3;
+   bottom: 0;
+   background-color: black;
+   color: white;
+   text-align: center;
+   font-weight: 900;
+}
+
+canvas{
+    border: solid black;
+    border-radius: 20px;
+    box-shadow: 10px 10px 50px pink;
+}
+
+video{
+    border: solid black;
+    border-radius: 20px;
+    box-shadow: 10px 10px 50px black;
+}
